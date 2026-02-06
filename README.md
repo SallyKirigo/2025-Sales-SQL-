@@ -10,7 +10,7 @@ This project provides a comprehensive analysis of sales and logistics data for t
 * **Vehicle Utilization:** Tracking the most frequently used vehicles across different routes.
 
 ## Dataset Description
-[cite_start]The core dataset (`sales.csv`) contains the following attributes:
+The core dataset (`sales.csv`) contains the following attributes:
 - `trip_date`: Date of the delivery.
 - `vehicle_id`: Unique identifier for the delivery vehicle.
 - `tonnage`: Capacity or weight of the load.
